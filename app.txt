@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 game to code
 added a new game
+=======
+added a movie1
+added a movie2
+>>>>>>> movies
